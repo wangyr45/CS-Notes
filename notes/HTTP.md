@@ -859,6 +859,10 @@ DELETE /idX/delete HTTP/1.1   -> Returns 404
 - HTTP/1.1 新增缓存处理指令 max-age
 
 
+## 其他、HTTPs
+API与用户的通信协议，总是使用[HTTPs协议](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
+
+
 # 参考资料
 
 - 上野宣. 图解 HTTP[M]. 人民邮电出版社, 2014.
